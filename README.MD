@@ -1,5 +1,5 @@
 # Euler Matrix Activation (EMA) 🌀
-$$$$$$!!!
+$$$$$$!!!!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vaggelis-mant/euler-matrix-activation/blob/main/example_usage.ipynb)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
