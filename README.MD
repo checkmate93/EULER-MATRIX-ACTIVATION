@@ -43,7 +43,7 @@ Euler Matrix Activation (EMA) is a novel, adaptive activation function based on 
 The Mathematical CoreInspired by Euler's formula $e^{i\theta} = \cos(\theta) + i\sin(\theta)$, EMA maps complex rotations to real $2 \times 2$ matrices for hardware-efficient execution:
 $$$$$$
 $$$$$
-
+$$$$$
 $$f(x) = \alpha \cdot (x \cos(\theta) - \tanh(x) \sin(\theta))$$
 
 By treating the activation as a learnable phase-shift, the network can dynamically adjust the "rotational state" of each neuron to maximize information flow and prevent vanishing gradients.
