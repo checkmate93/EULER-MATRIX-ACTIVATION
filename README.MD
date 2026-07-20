@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Instructions & Quick Startaaaaa
+## 🛠️ Instructions & Quick Startaaaaaa
 
 ### 1. Run via Google Colab (Recommended)
 The fastest way to verify the performance advantage of EMA is through Google Colab. 
